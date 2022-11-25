@@ -1,0 +1,6 @@
+Pour afficher la console git:
+1-Selectionner le dossier principale de votre TP (avec le click droit de la sourie)
+2- Sélectionner « ouvrir dans un terminal intégrer »
+3- Céer un dépot avec la commande « git init »
+4- Dans l'explorateur pour voir le dossier .git, qu'on appelle le dépot il faut sélectionner élément masqué dans affichage
+Si la commande git n'est pas reconnue il faut instaler git avec git download
