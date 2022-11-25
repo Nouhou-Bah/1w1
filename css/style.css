@@ -30,7 +30,9 @@ section{
 #galerie{
     background-color: aqua;
 }
-#tableau{background-color: azure;}
+#tableau{
+    background-color: azure;
+}
 #video{
     background-color: cadetblue;
 }

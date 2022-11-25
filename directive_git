@@ -4,3 +4,20 @@ Pour afficher la console git:
 3- Céer un dépot avec la commande « git init »
 4- Dans l'explorateur pour voir le dossier .git, qu'on appelle le dépot il faut sélectionner élément masqué dans affichage
 Si la commande git n'est pas reconnue il faut instaler git avec git download
+
+«git status» pour voir l'état de votre version
+si les fichier apparaisent en rouge il faut les indexer 
+«git add --all»
+une fois que tous les fichiers modifié passent au vert on peut faire un commit
+«git commit -m "s13 Début du TP2"»
+
+pour créer un compte github 
+créer un dépot dans votre compte github
+Sélectionner «repository»
+Cliquer sur «new»
+Entrer le nom du «repository» en francais le nom du dépot
+on veut créer le nom le plus simple possible exemple: «1w1»
+Pour l'instant on le créer en public 
+On sauvegarde le dépot 
+
+vous revenez a votre terminal vs code
